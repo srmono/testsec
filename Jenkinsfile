@@ -6,7 +6,7 @@ pipeline {
         {
             steps 
             {
-                echo 'This is a Build'
+                echo 'This is a Build update'
             }
         }
         stage('Test') 
